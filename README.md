@@ -1,2 +1,1 @@
-# tiles-project-front
-# piano-tiles-front
+# piano-tiles-frontend
